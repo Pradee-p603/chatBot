@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Rays Software\AIML_WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1945108008.index
+\com.google\src\main\resources
+C:\Rays Software\AIML_WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3229320326.index
+\Chatbot\src\main\resources
